@@ -10,5 +10,4 @@
 
 
 
-![preview img](/temaclaro.png)
-![preview img](/temaescuro.png)
+
