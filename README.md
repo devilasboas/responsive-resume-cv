@@ -1,5 +1,7 @@
 # Designer Responsivo - Resumo CV 
 
+- Link do Projeto: https://devilasboas.github.io/responsive-resume-cv-devilasboas/
+
 - Site de currículo responsivo usando HTML, CSS e JavaScript.
 - Contém uma navegação móvel com ícones.
 - Rolagem suave em cada seção na versão móvel.
